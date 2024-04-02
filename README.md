@@ -7,4 +7,4 @@
 
 - 📫 How to reach me **xmppclient on discord**
 
-- Credits to tiva for this https://github.com/itztiva/itztiva
+- Credits to tiva  https://github.com/itztiva/itztiva
