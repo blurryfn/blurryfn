@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently Mod at **Elixir**
 
+- favorite coding language = **C#**
+
 - 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **xmppclient on discord**
