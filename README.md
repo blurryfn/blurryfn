@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Mod at **Elixir**
 
-- favorite coding language = **C#**
+- Favorite Coding Language = **C#**
 
 - 🌱 I’m currently learning **C++**
 
