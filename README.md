@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">A passionate Developer from the States</h3>
 
-- 🔭 I’m currently Mod at **Cosmos**
+- 🔭 I’m currently Owner at **solaris**
 
 - Favorite Coding Language = **C#**
 
