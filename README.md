@@ -7,6 +7,4 @@
 
 - 📫 How to reach me **cia.gov2 on discord**
 
-- Celestia https://discord.gg/ogfn
 
-- Credits to tiva  https://github.com/itztiva/itztiva
